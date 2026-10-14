@@ -1,0 +1,14 @@
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\bin\Debug\net10.0\GamePolymorphism.exe
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\bin\Debug\net10.0\GamePolymorphism.deps.json
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\bin\Debug\net10.0\GamePolymorphism.runtimeconfig.json
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\bin\Debug\net10.0\GamePolymorphism.dll
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\bin\Debug\net10.0\GamePolymorphism.pdb
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\obj\Debug\net10.0\GamePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\obj\Debug\net10.0\GamePolymorphism.AssemblyInfoInputs.cache
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\obj\Debug\net10.0\GamePolymorphism.AssemblyInfo.cs
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\obj\Debug\net10.0\GamePolymorphism.csproj.CoreCompileInputs.cache
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\obj\Debug\net10.0\GamePolymorphism.dll
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\obj\Debug\net10.0\refint\GamePolymorphism.dll
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\obj\Debug\net10.0\GamePolymorphism.pdb
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\obj\Debug\net10.0\GamePolymorphism.genruntimeconfig.cache
+c:\Users\USER\OneDrive\Documents\NURIA11PG\New folder (2)\GamePolymorphism\obj\Debug\net10.0\ref\GamePolymorphism.dll
